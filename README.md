@@ -1,10 +1,10 @@
 ### SYNCHRONOUS-UP-COUNTER
-
-**AIM:**
+# Implementation of Synchronous counters using Verilog HDL 
+**AIM**
 
 To implement 4 bit synchronous up counter and validate functionality.
 
-**SOFTWARE REQUIRED:**
+**SOFTWARE REQUIRED**
 
 Quartus prime
 
